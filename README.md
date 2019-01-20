@@ -5,6 +5,5 @@ Repository untuk matkul IMPAL dengan judul Fisherman
 #2 Tugas yang perlu dikerjain ada di bagian "Projects"
 #3 Jika kalian sudah menyelesaikan tugas harap comment "Done"
 #4 Bebas upload file yang berkaitan dengan tubes kita
-#5 Dilarang menambahkan anggota selain kelompok kita
-#6 Repository ini akan dibuat private untuk menghindari plagiarisme
-#7 Jika ada yang bingung silahkan ditanyakan di grup
+#5 Repository ini akan dibuat private untuk menghindari plagiarisme
+#6 Jika ada yang bingung silahkan ditanyakan di grup
